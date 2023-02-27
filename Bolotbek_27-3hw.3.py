@@ -8,7 +8,7 @@ class Calculator:
                f'num two  is: {self.num2}\n' \
 
     def __add__(self):
-        return print(f'{self.num1} + {self.num2} = {self.num1 + self.num2}')
+        return print(f'{slessonelf.num1} + {self.num2} = {self.num1 + self.num2}')
 
 
     def __sub__(self):
